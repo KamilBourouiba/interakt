@@ -34,15 +34,9 @@ The Interaction Animator Python script reads the recorded interactions from the 
 ## Example Usage
 ```bash
 python animate_interactions.py interactions.json output_video.mp4
-File Location
+
+## File Location
 The output video file will be saved to the same directory as the Python script.
 
-Sample Output
-Link to sample video
-
-You can copy and paste this content into your README.md file. Let me know if you need any further assistance!
-
-vbnet
-Copy code
-
-You can copy this entire block and paste it into your README.md file. Let me know if you need further assistance!
+## Sample Output
+[Watch the video](output_video.mp4)
