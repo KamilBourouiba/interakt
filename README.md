@@ -1,6 +1,7 @@
 # Interaction Recorder and Animator
 
-https://github.com/KamilBourouiba/interakt/assets/107642625/aa7af66a-bb78-4d63-8689-b822f7743adb
+![output_video-ezgif com-video-to-gif-converter](https://github.com/KamilBourouiba/interakt/assets/107642625/1d0bda88-01c8-4c46-8bdb-ad34ca233be1)
+
 
 This project consists of two parts:
 
