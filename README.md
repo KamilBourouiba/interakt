@@ -34,5 +34,5 @@ The Interaction Animator Python script reads the recorded interactions from the 
 ## Example Usage
 ```bash
 python animate_interactions.py interactions.json output_video.mp4
-
+```
 [Watch the video](output_video.mp4)
