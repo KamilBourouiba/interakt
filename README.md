@@ -1,5 +1,7 @@
 # Interaction Recorder and Animator
 
+https://github.com/KamilBourouiba/interakt/assets/107642625/aa7af66a-bb78-4d63-8689-b822f7743adb
+
 This project consists of two parts:
 
 1. **Interaction Recorder:** A SwiftUI app that records user interactions (taps and drags) on an iPhone screen and saves them to a JSON file.
@@ -35,6 +37,4 @@ The Interaction Animator Python script reads the recorded interactions from the 
 ```bash
 python animate_interactions.py interactions.json output_video.mp4
 ```
-
-https://github.com/KamilBourouiba/interakt/assets/107642625/aa7af66a-bb78-4d63-8689-b822f7743adb
 
