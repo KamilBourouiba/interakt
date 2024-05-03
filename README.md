@@ -35,7 +35,4 @@ The Interaction Animator Python script reads the recorded interactions from the 
 ```bash
 python animate_interactions.py interactions.json output_video.mp4
 ```
-<video width="640" height="360" controls>
-  <source src="output_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](https://youtube.com/shorts/QJti77n8dGA?feature=share)
