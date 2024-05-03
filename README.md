@@ -35,8 +35,4 @@ The Interaction Animator Python script reads the recorded interactions from the 
 ```bash
 python animate_interactions.py interactions.json output_video.mp4
 
-## File Location
-The output video file will be saved to the same directory as the Python script.
-
-## Sample Output
 [Watch the video](output_video.mp4)
